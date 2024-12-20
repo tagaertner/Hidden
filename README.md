@@ -4,7 +4,7 @@ The data structure will be a ragged matrix, represented by a tuple of tuples of 
 
 matrix_1 = (
     ('u','e','r','e', ' ', 'e'),
-    ('d', 'z', 'o', 'b', 'i', 'v'),
+('d', 'z', 'o', 'b', 'i', 'v'),
     ('n',),
     ('w', 'g', 'q', ' ', '5', 'g', 'w'),
     ('r',),
